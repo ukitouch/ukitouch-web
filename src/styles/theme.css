@@ -1,0 +1,13 @@
+@reference "global.css";
+
+.bg-overall {
+  @apply bg-gray-900;
+}
+
+.text-1 {
+  @apply text-white;
+}
+
+.text-2 {
+  @apply text-gray-300;
+}
