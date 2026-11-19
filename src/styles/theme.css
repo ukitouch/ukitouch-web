@@ -1,7 +1,7 @@
 @reference "global.css";
 
 .bg-overall {
-  @apply bg-gray-900;
+  @apply bg-mist-950;
 }
 
 .text-1 {
