@@ -82,7 +82,7 @@ import Logo from "./Logo.astro";
 
     box.classList.remove("z-20");
     document.removeEventListener("click", skipIntro);
-    document.removeEventListener("keypress", skipIntro);
+    document.removeEventListener("keydown", skipIntro);
   }
 
   function skipIntro() {
